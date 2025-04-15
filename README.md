@@ -9,15 +9,9 @@ My journey in Computer Systems Technician has led me to develop a passion for Cy
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/jkvi/Home-SOC-Project">Home SOC honeypot</a>|
+| Data Analysis and Querying                    | <a href="https://github.com/jkvi/Home-SOC-Project">Home SOC honeypot</a>|
+| Security Concepts and Practices               | <a href="https://github.com/jkvi/Home-SOC-Project">Home SOC honeypot</a>|
 
 ### Network
 <div>
@@ -27,7 +21,6 @@ My journey in Computer Systems Technician has led me to develop a passion for Cy
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
@@ -45,5 +38,4 @@ My journey in Computer Systems Technician has led me to develop a passion for Cy
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home SOC honeypot
