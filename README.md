@@ -37,4 +37,4 @@ My career journey has led me to develop a passion for Cybersecurity, and I am no
 </div>
 
 ## Projects
-- Home SOC honeypot
+- <a href="https://github.com/jkvi/Home-SOC-Project">Home SOC honeypot</a>
