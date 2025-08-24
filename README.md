@@ -17,6 +17,7 @@ My career journey has led me to develop a passion for Cybersecurity, and I am no
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-EF3B2D?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ### Endpoint
