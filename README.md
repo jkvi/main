@@ -1,5 +1,6 @@
 # Hello, I'm Kai
 <a href="https://linkedin.com/in/johnkaiservillena"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 Hi! I’m Kai, a software engineer and IT enthusiast passionate about building efficient, creative solutions. I specialize in software development and love exploring the latest in tech. When I’m not coding, you’ll probably find me working out, playing video games, enjoying nature, or geeking out over Japanese cars.
 
 ## Objective
