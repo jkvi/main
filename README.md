@@ -1,10 +1,9 @@
 # Hello, I'm Kai
 <a href="https://linkedin.com/in/johnkaiservillena"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi! I’m Kai, a software engineer and IT enthusiast passionate about building efficient, creative solutions. I specialize in software development and love exploring the latest in tech. When I’m not coding, you’ll probably find me working out, playing video games, enjoying nature, or geeking out over Japanese cars.
 
 ## Objective
-My career journey has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My career journey has led me to develop a passion for Software Engineering, and I am now eager to transition into this field.
 
 ## Skills
 | Skill                                         | Associated Project         |
